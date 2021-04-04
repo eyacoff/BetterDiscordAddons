@@ -12,7 +12,7 @@
  * @updateUrl https://mwittrien.github.io/BetterDiscordAddons/Plugins/ShowHiddenChannels/ShowHiddenChannels.plugin.js
  */
 
-module.exports = (_ => {
+module.exports = (_ = {
 	const config = {
 		"info": {
 			"name": "ShowHiddenChannels",
